@@ -1,0 +1,16 @@
+*:focus {
+  outline: none;
+}
+
+.searchBar {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.searchBar input {
+  padding: 10px;
+  border-radius: 50px;
+  border-style: solid 1px grey;
+  outline: none;
+  width: 50%;
+}

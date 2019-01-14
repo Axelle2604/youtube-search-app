@@ -1,0 +1,13 @@
+.videoPlayer {
+  width: 60vw;
+}
+
+.videoPlayerContainer {
+  width: 100%;
+  height: 100%;
+}
+
+.videoPlayer iframe {
+  width: 100%;
+  height: 30%;
+}
